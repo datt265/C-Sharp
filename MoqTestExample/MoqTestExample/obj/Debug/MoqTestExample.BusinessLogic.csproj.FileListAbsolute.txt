@@ -1,0 +1,14 @@
+C:\Users\deanh\Desktop\MoqTestExample\MoqTestExample\bin\Debug\MoqTestExample.dll
+C:\Users\deanh\Desktop\MoqTestExample\MoqTestExample\bin\Debug\MoqTestExample.pdb
+C:\Users\deanh\Desktop\MoqTestExample\MoqTestExample\bin\Debug\MoqTestExample.DataAccess.dll
+C:\Users\deanh\Desktop\MoqTestExample\MoqTestExample\bin\Debug\MoqTestExample.DataAccess.pdb
+C:\Users\deanh\Desktop\MoqTestExample\MoqTestExample\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\deanh\Desktop\MoqTestExample\MoqTestExample\obj\Debug\MoqTestExample.dll
+C:\Users\deanh\Desktop\MoqTestExample\MoqTestExample\obj\Debug\MoqTestExample.pdb
+C:\Users\daniel attard\Desktop\MoqTestExample\MoqTestExample\bin\Debug\MoqTestExample.dll
+C:\Users\daniel attard\Desktop\MoqTestExample\MoqTestExample\bin\Debug\MoqTestExample.pdb
+C:\Users\daniel attard\Desktop\MoqTestExample\MoqTestExample\bin\Debug\MoqTestExample.DataAccess.dll
+C:\Users\daniel attard\Desktop\MoqTestExample\MoqTestExample\bin\Debug\MoqTestExample.DataAccess.pdb
+C:\Users\daniel attard\Desktop\MoqTestExample\MoqTestExample\obj\Debug\MoqTestExample.BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\daniel attard\Desktop\MoqTestExample\MoqTestExample\obj\Debug\MoqTestExample.dll
+C:\Users\daniel attard\Desktop\MoqTestExample\MoqTestExample\obj\Debug\MoqTestExample.pdb

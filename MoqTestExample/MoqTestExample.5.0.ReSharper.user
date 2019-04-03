@@ -1,0 +1,127 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="9321DD31-E6B6-4079-946A-8E913E6944CC/f:Basket.cs" caret="753" fromTop="24" />
+      <File id="26CD13BB-4212-4679-B647-0F9053367C7D/f:Basket.cs" caret="57" fromTop="1" />
+      <File id="26CD13BB-4212-4679-B647-0F9053367C7D/f:BasketDal.cs" caret="498" fromTop="16" />
+      <File id="26CD13BB-4212-4679-B647-0F9053367C7D/f:IBasketDal.cs" caret="184" fromTop="8" />
+      <File id="C794BF3C-47C3-4175-A116-2C3BEA987A56/f:BasketTest.cs" caret="529" fromTop="21" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="C794BF3C-47C3-4175-A116-2C3BEA987A56/f:BasketTest.cs" caret="2586" fromTop="45" />
+      <File id="26CD13BB-4212-4679-B647-0F9053367C7D/f:IBasketDal.cs" caret="184" fromTop="6" />
+      <File id="C794BF3C-47C3-4175-A116-2C3BEA987A56/f:BasketTest.cs" caret="2586" fromTop="36" />
+      <File id="C794BF3C-47C3-4175-A116-2C3BEA987A56/f:BasketTest.cs" caret="3181" fromTop="35" />
+      <File id="26CD13BB-4212-4679-B647-0F9053367C7D/f:IBasketDal.cs" caret="139" fromTop="5" />
+      <File id="26CD13BB-4212-4679-B647-0F9053367C7D/f:BasketDal.cs" caret="89" fromTop="3" />
+      <File id="26CD13BB-4212-4679-B647-0F9053367C7D/f:BasketDal.cs" caret="695" fromTop="20" />
+      <File id="9321DD31-E6B6-4079-946A-8E913E6944CC/f:Basket.cs" caret="960" fromTop="27" />
+      <File id="9321DD31-E6B6-4079-946A-8E913E6944CC/f:Basket.cs" caret="753" fromTop="24" />
+      <File id="C794BF3C-47C3-4175-A116-2C3BEA987A56/f:BasketTest.cs" caret="1393" fromTop="21" />
+      <File id="C794BF3C-47C3-4175-A116-2C3BEA987A56/f:BasketTest.cs" caret="2778" fromTop="31" />
+      <File id="C794BF3C-47C3-4175-A116-2C3BEA987A56/f:BasketTest.cs" caret="467" fromTop="12" />
+      <File id="C794BF3C-47C3-4175-A116-2C3BEA987A56/f:BasketTest.cs" caret="2437" fromTop="17" />
+      <File id="C794BF3C-47C3-4175-A116-2C3BEA987A56/f:BasketTest.cs" caret="1958" fromTop="19" />
+      <File id="C794BF3C-47C3-4175-A116-2C3BEA987A56/f:BasketTest.cs" caret="2176" fromTop="25" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="7" />
+      <Item value="void" priority="2" />
+      <Item value="BasketDal" priority="1" />
+      <Item value="int" priority="4" />
+      <Item value="return" priority="2" />
+      <Item value="null" priority="0" />
+      <Item value="string" priority="2" />
+      <Item value="basketDal" priority="2" />
+      <Item value="new" priority="4" />
+      <Item value="foreach" priority="0" />
+      <Item value="basket" priority="5" />
+      <Item value="Test" priority="0" />
+      <Item value="Basket" priority="5" />
+      <Item value="SetUp" priority="0" />
+      <Item value="_mock" priority="4" />
+      <Item value="Mock&lt;IBasketDal&gt;" priority="0" />
+      <Item value="_target" priority="1" />
+      <Item value="It" priority="0" />
+      <Item value="private" priority="0" />
+      <Item value="readonly" priority="0" />
+      <Item value="IBasketDal" priority="1" />
+      <Item value="_basketDal" priority="1" />
+      <Item value="Assert" priority="0" />
+      <Item value="totals" priority="0" />
+      <Item value="Times`0" priority="0" />
+      <Item value="Exception" priority="0" />
+      <Item value="DataMisalignedException`0" priority="0" />
+      <Item value="ExpectedException" priority="0" />
+      <Item value="ArgumentOutOfRangeException`0" priority="0" />
+      <Item value="customerId" priority="0" />
+      <Item value="customerName" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MoqTestExample.DataAccess.Basket">
+      <Item value="Total" priority="3" />
+      <Item value="ShippingPrice" priority="1" />
+      <Item value="CustomerName" priority="1" />
+      <Item value="ProductId" priority="0" />
+      <Item value="SubTotal" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Moq.Mock`1">
+      <Item value="Object" priority="1" />
+      <Item value="Setup" priority="0" />
+      <Item value="Verify`1" priority="0" />
+      <Item value="Setup`1" priority="0" />
+      <Item value="VerifySet`0" priority="0" />
+      <Item value="VerifyAll`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MoqTestExample.DataAccess.IBasketDal">
+      <Item value="GetBasket" priority="0" />
+      <Item value="GetBasket`0" priority="2" />
+      <Item value="CustomerId" priority="0" />
+      <Item value="GetCustomerName`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Moq.It">
+      <Item value="IsAny" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Moq.Language.Flow.ISetup`2">
+      <Item value="Returns" priority="0" />
+      <Item value="Throws`1" priority="0" />
+      <Item value="Callback`4" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MoqTestExample.Basket">
+      <Item value="CalculateBasketTotals" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@NUnit.Framework.Assert">
+      <Item value="That" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@NUnit.Framework.SyntaxHelpers.Is">
+      <Item value="EqualTo" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Moq.Times">
+      <Item value="Once`0" priority="1" />
+      <Item value="Exactly`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Empty" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

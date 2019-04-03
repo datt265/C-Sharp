@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="C794BF3C-47C3-4175-A116-2C3BEA987A56" ModuleId="MoqTestExample.UnitTests" />
+  <Module PersistentId="26CD13BB-4212-4679-B647-0F9053367C7D" ModuleId="MoqTestExample.DataAccess" />
+  <Module PersistentId="9321DD31-E6B6-4079-946A-8E913E6944CC" ModuleId="MoqTestExample.BusinessLogic" />
+</Modules>

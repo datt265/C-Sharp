@@ -1,0 +1,113 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="9321DD31-E6B6-4079-946A-8E913E6944CC/f:Class1.cs" caret="202" fromTop="9" />
+      <File id="26CD13BB-4212-4679-B647-0F9053367C7D/f:Class1.cs" caret="478" fromTop="14" />
+      <File id="d:&amp;/f:Basket.cs/l:C!?Users?deanh?Desktop?MoqTestExample?MoqTestExample.DataAccess?Basket.cs" caret="313" fromTop="11" />
+      <File id="d:&amp;/f:IBasketDal.cs/l:C!?Users?deanh?Desktop?MoqTestExample?MoqTestExample.DataAccess?IBasketDal.cs" caret="104" fromTop="4" />
+      <File id="C794BF3C-47C3-4175-A116-2C3BEA987A56/f:Class1.cs" caret="442" fromTop="19" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="9321DD31-E6B6-4079-946A-8E913E6944CC/f:Class1.cs" caret="378" fromTop="20" />
+      <File id="9321DD31-E6B6-4079-946A-8E913E6944CC/f:Class1.cs" caret="347" fromTop="20" />
+      <File id="d:&amp;/f:Basket.cs/l:C!?Users?deanh?Desktop?MoqTestExample?MoqTestExample.DataAccess?Basket.cs" caret="362" fromTop="12" />
+      <File id="d:&amp;/f:Basket.cs/l:C!?Users?deanh?Desktop?MoqTestExample?MoqTestExample.DataAccess?Basket.cs" caret="0" fromTop="0" />
+      <File id="26CD13BB-4212-4679-B647-0F9053367C7D/f:Class1.cs" caret="279" fromTop="11" />
+      <File id="26CD13BB-4212-4679-B647-0F9053367C7D/f:Class1.cs" caret="132" fromTop="7" />
+      <File id="d:&amp;/f:IBasketDal.cs/l:C!?Users?deanh?Desktop?MoqTestExample?MoqTestExample.DataAccess?IBasketDal.cs" caret="352" fromTop="14" />
+      <File id="d:&amp;/f:IBasketDal.cs/l:C!?Users?deanh?Desktop?MoqTestExample?MoqTestExample.DataAccess?IBasketDal.cs" caret="222" fromTop="11" />
+      <File id="d:&amp;/f:IBasketDal.cs/l:C!?Users?deanh?Desktop?MoqTestExample?MoqTestExample.DataAccess?IBasketDal.cs" caret="0" fromTop="0" />
+      <File id="d:&amp;/f:IBasketDal.cs/l:C!?Users?deanh?Desktop?MoqTestExample?MoqTestExample.DataAccess?IBasketDal.cs" caret="104" fromTop="4" />
+      <File id="9321DD31-E6B6-4079-946A-8E913E6944CC/f:Class1.cs" caret="242" fromTop="10" />
+      <File id="d:&amp;/f:Basket.cs/l:C!?Users?deanh?Desktop?MoqTestExample?MoqTestExample.DataAccess?Basket.cs" caret="201" fromTop="6" />
+      <File id="d:&amp;/f:Basket.cs/l:C!?Users?deanh?Desktop?MoqTestExample?MoqTestExample.DataAccess?Basket.cs" caret="313" fromTop="11" />
+      <File id="9321DD31-E6B6-4079-946A-8E913E6944CC/f:Class1.cs" caret="0" fromTop="0" />
+      <File id="26CD13BB-4212-4679-B647-0F9053367C7D/f:Class1.cs" caret="108" fromTop="4" />
+      <File id="26CD13BB-4212-4679-B647-0F9053367C7D/f:Class1.cs" caret="442" fromTop="12" />
+      <File id="9321DD31-E6B6-4079-946A-8E913E6944CC/f:Class1.cs" caret="642" fromTop="22" />
+      <File id="C794BF3C-47C3-4175-A116-2C3BEA987A56/f:Class1.cs" caret="153" fromTop="7" />
+      <File id="C794BF3C-47C3-4175-A116-2C3BEA987A56/f:Class1.cs" caret="0" fromTop="0" />
+      <File id="9321DD31-E6B6-4079-946A-8E913E6944CC/f:Class1.cs" caret="303" fromTop="10" />
+      <File id="C794BF3C-47C3-4175-A116-2C3BEA987A56/f:Class1.cs" caret="294" fromTop="14" />
+      <File id="C794BF3C-47C3-4175-A116-2C3BEA987A56/f:Class1.cs" caret="798" fromTop="29" />
+      <File id="9321DD31-E6B6-4079-946A-8E913E6944CC/f:Class1.cs" caret="239" fromTop="10" />
+      <File id="9321DD31-E6B6-4079-946A-8E913E6944CC/f:Class1.cs" caret="146" fromTop="7" />
+      <File id="C794BF3C-47C3-4175-A116-2C3BEA987A56/f:Class1.cs" caret="404" fromTop="18" />
+      <File id="C794BF3C-47C3-4175-A116-2C3BEA987A56/f:Class1.cs" caret="534" fromTop="21" />
+      <File id="C794BF3C-47C3-4175-A116-2C3BEA987A56/f:Class1.cs" caret="1308" fromTop="39" />
+      <File id="C794BF3C-47C3-4175-A116-2C3BEA987A56/f:Class1.cs" caret="1074" fromTop="32" />
+      <File id="9321DD31-E6B6-4079-946A-8E913E6944CC/f:Class1.cs" caret="486" fromTop="18" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="5" />
+      <Item value="void" priority="2" />
+      <Item value="BasketDal" priority="1" />
+      <Item value="int" priority="1" />
+      <Item value="return" priority="1" />
+      <Item value="null" priority="0" />
+      <Item value="string" priority="0" />
+      <Item value="basketDal" priority="2" />
+      <Item value="new" priority="3" />
+      <Item value="foreach" priority="0" />
+      <Item value="basket" priority="4" />
+      <Item value="Test" priority="0" />
+      <Item value="Basket" priority="4" />
+      <Item value="SetUp" priority="0" />
+      <Item value="_mock" priority="3" />
+      <Item value="Mock&lt;IBasketDal&gt;" priority="0" />
+      <Item value="_target" priority="1" />
+      <Item value="It" priority="0" />
+      <Item value="private" priority="0" />
+      <Item value="readonly" priority="0" />
+      <Item value="IBasketDal" priority="1" />
+      <Item value="_basketDal" priority="0" />
+      <Item value="Assert" priority="0" />
+      <Item value="totals" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MoqTestExample.DataAccess.Basket">
+      <Item value="Total" priority="3" />
+      <Item value="ShippingPrice" priority="1" />
+      <Item value="CustomerName" priority="0" />
+      <Item value="ProductId" priority="0" />
+      <Item value="SubTotal" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Moq.Mock`1">
+      <Item value="Object" priority="1" />
+      <Item value="Setup" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MoqTestExample.DataAccess.IBasketDal">
+      <Item value="GetBasket" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Moq.It">
+      <Item value="IsAny" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Moq.Language.Flow.ISetup`2">
+      <Item value="Returns" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MoqTestExample.Basket">
+      <Item value="CalculateBasketTotals" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@NUnit.Framework.Assert">
+      <Item value="That" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@NUnit.Framework.SyntaxHelpers.Is">
+      <Item value="EqualTo" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

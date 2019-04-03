@@ -1,0 +1,10 @@
+C:\Users\deanh\Desktop\MoqTestExample\MoqTestExample.DataAccess\bin\Debug\MoqTestExample.DataAccess.dll
+C:\Users\deanh\Desktop\MoqTestExample\MoqTestExample.DataAccess\bin\Debug\MoqTestExample.DataAccess.pdb
+C:\Users\deanh\Desktop\MoqTestExample\MoqTestExample.DataAccess\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\deanh\Desktop\MoqTestExample\MoqTestExample.DataAccess\obj\Debug\MoqTestExample.DataAccess.dll
+C:\Users\deanh\Desktop\MoqTestExample\MoqTestExample.DataAccess\obj\Debug\MoqTestExample.DataAccess.pdb
+C:\Users\daniel attard\Desktop\MoqTestExample\MoqTestExample.DataAccess\bin\Debug\MoqTestExample.DataAccess.dll
+C:\Users\daniel attard\Desktop\MoqTestExample\MoqTestExample.DataAccess\bin\Debug\MoqTestExample.DataAccess.pdb
+C:\Users\daniel attard\Desktop\MoqTestExample\MoqTestExample.DataAccess\obj\Debug\MoqTestExample.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\daniel attard\Desktop\MoqTestExample\MoqTestExample.DataAccess\obj\Debug\MoqTestExample.DataAccess.dll
+C:\Users\daniel attard\Desktop\MoqTestExample\MoqTestExample.DataAccess\obj\Debug\MoqTestExample.DataAccess.pdb

@@ -1,0 +1,22 @@
+C:\Users\deanh\Desktop\MoqTestExample\MoqTestExample.UnitTests\bin\Debug\MoqTestExample.UnitTests.dll
+C:\Users\deanh\Desktop\MoqTestExample\MoqTestExample.UnitTests\bin\Debug\MoqTestExample.UnitTests.pdb
+C:\Users\deanh\Desktop\MoqTestExample\MoqTestExample.UnitTests\bin\Debug\Moq.dll
+C:\Users\deanh\Desktop\MoqTestExample\MoqTestExample.UnitTests\bin\Debug\MoqTestExample.DataAccess.dll
+C:\Users\deanh\Desktop\MoqTestExample\MoqTestExample.UnitTests\bin\Debug\MoqTestExample.dll
+C:\Users\deanh\Desktop\MoqTestExample\MoqTestExample.UnitTests\bin\Debug\nunit.framework.dll
+C:\Users\deanh\Desktop\MoqTestExample\MoqTestExample.UnitTests\bin\Debug\MoqTestExample.DataAccess.pdb
+C:\Users\deanh\Desktop\MoqTestExample\MoqTestExample.UnitTests\bin\Debug\MoqTestExample.pdb
+C:\Users\deanh\Desktop\MoqTestExample\MoqTestExample.UnitTests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\deanh\Desktop\MoqTestExample\MoqTestExample.UnitTests\obj\Debug\MoqTestExample.UnitTests.dll
+C:\Users\deanh\Desktop\MoqTestExample\MoqTestExample.UnitTests\obj\Debug\MoqTestExample.UnitTests.pdb
+C:\Users\daniel attard\Desktop\MoqTestExample\MoqTestExample.UnitTests\bin\Debug\MoqTestExample.UnitTests.dll
+C:\Users\daniel attard\Desktop\MoqTestExample\MoqTestExample.UnitTests\bin\Debug\MoqTestExample.UnitTests.pdb
+C:\Users\daniel attard\Desktop\MoqTestExample\MoqTestExample.UnitTests\bin\Debug\Moq.dll
+C:\Users\daniel attard\Desktop\MoqTestExample\MoqTestExample.UnitTests\bin\Debug\MoqTestExample.DataAccess.dll
+C:\Users\daniel attard\Desktop\MoqTestExample\MoqTestExample.UnitTests\bin\Debug\MoqTestExample.dll
+C:\Users\daniel attard\Desktop\MoqTestExample\MoqTestExample.UnitTests\bin\Debug\nunit.framework.dll
+C:\Users\daniel attard\Desktop\MoqTestExample\MoqTestExample.UnitTests\bin\Debug\MoqTestExample.DataAccess.pdb
+C:\Users\daniel attard\Desktop\MoqTestExample\MoqTestExample.UnitTests\bin\Debug\MoqTestExample.pdb
+C:\Users\daniel attard\Desktop\MoqTestExample\MoqTestExample.UnitTests\obj\Debug\MoqTestExample.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\daniel attard\Desktop\MoqTestExample\MoqTestExample.UnitTests\obj\Debug\MoqTestExample.UnitTests.dll
+C:\Users\daniel attard\Desktop\MoqTestExample\MoqTestExample.UnitTests\obj\Debug\MoqTestExample.UnitTests.pdb
